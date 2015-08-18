@@ -1,0 +1,10 @@
+## assignment operators
+# +=
+# -=
+# *=
+# /=
+# %=
+# **=
+
+## comparison operators
+#
