@@ -6,7 +6,9 @@
 # %=
 # **=
 
-## comparison operators
+## equality operators
 # ==
 # !=
 
+## comparison operators
+# 
