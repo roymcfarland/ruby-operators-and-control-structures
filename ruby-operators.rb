@@ -7,4 +7,6 @@
 # **=
 
 ## comparison operators
-#
+# ==
+# !=
+
