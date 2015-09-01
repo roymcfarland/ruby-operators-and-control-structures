@@ -13,6 +13,12 @@
 ## comparison operators
 # >
 # <
+# =>
+# =<
+
+## misc operators
+# &&
+# ||
 
 # ASCII values can be obtained by calling .ord method
 
